@@ -43,6 +43,9 @@ background-color: khaki;
     width:60% ;
     height:1200px ;
     background-color: rgb(211, 126, 126);
+    color: blue;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif ;
 }
 
 .derecha{
